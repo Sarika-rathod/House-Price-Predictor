@@ -3,3 +3,10 @@ pandas
 numpy
 scikit-learn
 joblib
+zenml
+mlflow
+mlflow_skinny
+matplotlib
+seaborn
+statsmodels
+click
